@@ -1,5 +1,6 @@
 
-## Build a basic version of PayTM
+## Simple Paytm Clone
+Build a basic version of PayTM
 Using the MERN stack (MongoDB, Express.js, React.js, and Node.js), I've built a fully functional web application designed to mimic the functionality of Paytm, albeit with a twist. Instead of integrating with real banks, I've implemented a system using randomly generated money for user accounts.
 
 Here's a brief overview of the project:
